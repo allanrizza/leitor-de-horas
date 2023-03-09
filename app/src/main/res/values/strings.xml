@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Leitor de Horas</string>
+    <string name="horas">%s</string>
+</resources>
